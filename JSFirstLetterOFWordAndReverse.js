@@ -7,3 +7,7 @@ console.log(abbr); //
 console.log(breakarr);
 console.log(firstItem)
 console.log(reverse)
+
+
+//Input "Java Script Object Notation"
+//Output NOSJ
