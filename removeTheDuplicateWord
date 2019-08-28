@@ -1,0 +1,6 @@
+
+var string = "spanner, span, spaniel, span";
+
+var uniqueList=string.split(',').filter(function(allItems,i,a){
+    return i==a.indexOf(allItems);
+}).join(',');
